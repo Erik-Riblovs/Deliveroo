@@ -1,0 +1,72 @@
+.wotm {
+    display: flex;
+    gap: 10PX;
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+
+.imageHolder {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+
+.imageHolder01 {
+    background-image: url('../images/whats_on_the_menu/wonthm_image_01.jpg');
+
+}
+
+.imageHolder02 {
+    background-image: url('../images/whats_on_the_menu/wonthm_image_02.jpg');
+
+}
+
+.imageHolder03 {
+    background-image: url('../images/whats_on_the_menu/wonthm_image_03.jpg');
+
+}
+
+.imageHolder04 {
+    background-image: url('../images/whats_on_the_menu/wonthm_image_04.jpg');
+
+}
+
+.imageHolder05 {
+    background-image: url('../images/whats_on_the_menu/wonthm_image_05.jpg');
+
+}
+
+.imageHolder06 {
+    background-image: url('../images/whats_on_the_menu/wonthm_image_06.jpg');
+
+}
+
+.imageHolder07 {
+    background-image: url('../images/whats_on_the_menu/wonthm_image_07.jpg');
+
+}
+
+
+
+.wotm a {
+    color: #00CCBC;
+}
+
+
+
+.wotm h3 {
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+
+}
+
+.wotm p{
+    margin-bottom: 0%;
+}

@@ -1,0 +1,44 @@
+.wwd .panel {
+    padding-top: 285px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-bottom: 15px;
+}
+
+.wwd .panel01 {
+    background-color: #FE483B;
+
+    background-image: url(../images/riders.6856d560.jpg);
+
+
+}
+
+.wwd .panel02 {
+    background-color: #FD8102;
+
+    background-image: url(../images/restaurants.2a02d1a0.jpg);
+
+
+}
+
+.wwd .panel03 {
+    background-color: #BAC3C3;
+    background-image: url(../images/team.86d7b512.jpg);
+}
+
+.wwd .content {
+    color: white;
+    padding: 20px;
+}
+
+.wwd .content h3 {
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding: 0;
+
+}
+
+.wwd .content p {
+    margin-bottom: 20px;
+}

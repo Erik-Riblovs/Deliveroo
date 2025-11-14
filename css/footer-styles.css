@@ -5,7 +5,7 @@ footer {
 
 }
 
-footer .container {
+footer .container{
     display: flex;
 }
 
@@ -35,6 +35,12 @@ footer .footItem a:hover {
 
 footer .footItem a img {
     margin-bottom: 20px;
+}
+
+footer .social-copyright{
+    display: flex;
+    gap: 20px;
+    align-items: end;
 }
 
 footer .socialLinks{
